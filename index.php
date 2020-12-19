@@ -1,7 +1,7 @@
 <?php
 
 //Pegando Videos de YouTube
-$API_key    = 'AIzaSyCtQB5HCscK4Zog1t2CKcKMmkT9FfNLRnY';//Chave de acesso a API
+$API_key    = '';//Chave de acesso a API
 $channelID  = 'UCXVbsFoA16ZhaRn5fkXTO_w';//Identificador do Canal
 $maxResults = 10;//Quantidade de videos retornados.
 
